@@ -14,3 +14,5 @@ Agora que nós já temos os dados, iremos filtrar. Mas lembre-se 14MB de dados, 
 
 3. Filtrar as linhas do dataset por candidatas com genero 'FEMININO' no estado do 'RJ'.
 3.1. Imprimir estas linhas.
+3.2. Contar quantas mulheres se candidataram no Rio de Janeiro
+3.3. Contar quantas mulheres se candidataram em São Paulo
